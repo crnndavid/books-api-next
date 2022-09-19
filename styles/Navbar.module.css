@@ -1,0 +1,19 @@
+.navContainer {
+  background-color: cadetblue;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navContainer ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.navContainer ul li {
+  margin-right: 20px;
+}
