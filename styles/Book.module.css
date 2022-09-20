@@ -1,0 +1,17 @@
+.container {
+  border: 1px solid;
+
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container h2 {
+  font-size: 20px;
+}
+
+.container p {
+  font-size: 14px;
+}

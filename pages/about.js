@@ -1,8 +1,8 @@
-import aboutStyles from "../styles/About.module.css";
+import Header from "../components/Header";
 const about = () => {
   return (
     <div>
-      <h1 className={aboutStyles.title}>David Crenin</h1>
+      <Header title="Biography" />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
         mollitia, molestiae quas vel sint commodi repudiandae consequuntur
