@@ -11,6 +11,7 @@ export default function Home({ books }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header title="Allbooks" />
+
       <BooksList books={books} />
     </div>
   );
